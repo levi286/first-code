@@ -1,5 +1,5 @@
 # Thanks for checking it out! Send me tips and resources so I can become a better a coder!
-half_my_age = 7.5
+half_my_age = 6.5
 greeting = "Hello there!"
 name = "Levi Segal"
 greeting_with_name = greeting + " " + "My name is " + name
